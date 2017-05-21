@@ -15,4 +15,5 @@ Rails.application.routes.draw do
   # Application root
   root to: 'application#home'
   # Front routes end
+
 end
